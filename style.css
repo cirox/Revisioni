@@ -87,6 +87,7 @@ section {
 
 
 .column a {
+	color:#ccc;
 	width: 100%;
 	padding: 20px 60px;
 	display: block;
@@ -111,6 +112,7 @@ section {
 
 .column a.disable {
 	background: rgba(0,0,0,0.3);
+	color:#ccc;
 	color: rgba(255,255,255,0.3);
 	cursor: default;
 }
