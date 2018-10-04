@@ -1,0 +1,687 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-top"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"n",
+				"lower-latin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"ul",
+				"url()"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"cs",
+				"owl.carousel.min.css"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"lis",
+				"list\tlist-style-type"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"end",
+				"flex-end"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"cla",
+				"class\tAttr"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"row",
+				"flex-grow"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"footer",
+				"footer\tTag"
+			],
+			[
+				"text-o",
+				"text-overflow"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"lef",
+				"left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1621,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 384.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"basi",
+				"Snippet: html5-basic"
+			],
+			[
+				"ba",
+				"Snippet: html5-basic"
+			],
+			[
+				"bas",
+				"Snippet: html5-basic"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"uns",
+				"Unsplash: Insert Image URL"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"un",
+				"Unsplash: Insert Image URL"
+			],
+			[
+				"lips",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"unsp",
+				"Unsplash: Insert Image URL"
+			],
+			[
+				"packa",
+				"Package Control: Remove Channel"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"add pac",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"pach",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ips",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"splash",
+				"Unsplash: Insert Image tag"
+			],
+			[
+				"html",
+				"Snippet: html5-basic"
+			],
+			[
+				"html5",
+				"Snippet: html5-basic"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown HTML Preview"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"lista",
+				"Package Control: List Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cirox/Documents/Lavori/accademia/Revisioni"
+	],
+	"file_history":
+	[
+		"/Users/cirox/Documents/Lavori/accademia/Revisioni/rev-4-set.html",
+		"/Users/cirox/Documents/Lavori/accademia/Revisioni/31luglio.html",
+		"/Users/cirox/Desktop/mier-2.svg",
+		"/Users/cirox/Desktop/mier.svg",
+		"/Users/cirox/Documents/o/oooooo/datalist.html",
+		"/Users/cirox/Desktop/index.html/style.css",
+		"/Users/cirox/Desktop/index.html/index.html",
+		"/Applications/MAMP/htdocs/c/sass/blocks/_navigation.scss",
+		"/Applications/MAMP/htdocs/c/sass/blocks/_header.scss",
+		"/Applications/MAMP/htdocs/c/k1/site/templates/home.php",
+		"/Applications/MAMP/htdocs/c/k1/site/templates/blog.php",
+		"/Applications/MAMP/htdocs/c/k1/site/templates/article.php",
+		"/Applications/MAMP/htdocs/c/sass/layout/_article.scss",
+		"/Applications/MAMP/htdocs/c/k1/content/1-articoli/20141020-i-pensieri-sul-design-di-paul-rand/default.txt",
+		"/Applications/MAMP/htdocs/c/k1/content/1-articoli/20150809-su-individualismo-e-gratitudine/default.txt",
+		"/Applications/MAMP/htdocs/c/k1/content/1-articoli/20160706-link-su-font-e-tipografia/default.txt",
+		"/Applications/MAMP/htdocs/c/k1/content/3-info/info.txt",
+		"/Applications/MAMP/htdocs/c/k1/content/2-note/blog.txt",
+		"/Applications/MAMP/htdocs/c/k1/content/2-note/01-sul-design-di-app/default.txt",
+		"/Applications/MAMP/htdocs/ooo/test-font.html",
+		"/Users/cirox/Desktop/test-font/index.html",
+		"/Users/cirox/Downloads/metooo_users_it.csv",
+		"/Users/cirox/Desktop/text.csv",
+		"/Users/cirox/Library/Caches/Transmit/C47F9D71-BF4C-4602-9EC3-23D667F55AFA/ftp.accademiadicatania.com/www.accademiadicatania.com/stageeworkshop copy.php",
+		"/Users/cirox/Desktop/conferma.html",
+		"/Users/cirox/Library/Caches/Transmit/362A65C7-3A8E-4E3C-81A5-B5AD8791E645/ciroesposito.com/httpdocs/test.html",
+		"/Users/cirox/Desktop/test.svg",
+		"/Applications/MAMP/htdocs/c/sass/base/_variables.scss",
+		"/Applications/MAMP/htdocs/c/k1/site/snippets/header.php",
+		"/Applications/MAMP/htdocs/c/sass/base/_general.scss",
+		"/Applications/MAMP/htdocs/c/k1/site/config/config.php",
+		"/Applications/MAMP/htdocs/c/index.html",
+		"/Applications/MAMP/htdocs/c/k1/site/templates/default.php",
+		"/Applications/MAMP/htdocs/c/sass/base/_reset.scss",
+		"/Applications/MAMP/htdocs/c/assets/css/style.css",
+		"/Applications/MAMP/htdocs/c/k1/assets/css/style.css",
+		"/Users/cirox/Dropbox/metooo-ciro-sara/sito_2017/html/pages/pricing.html",
+		"/Applications/MAMP/htdocs/c/sass/layout/_home.scss",
+		"/Applications/MAMP/htdocs/c/sass/base/_grid.scss",
+		"/Applications/MAMP/htdocs/c/sass/style.scss",
+		"/Applications/MAMP/htdocs/c/sass/base/_typography.scss",
+		"/Applications/MAMP/htdocs/c/sass/blocks/_footer.scss",
+		"/Applications/MAMP/htdocs/c/k1/site/blueprints/default.yml",
+		"/Applications/MAMP/htdocs/c/k1/site/blueprints/article.yml",
+		"/Applications/MAMP/htdocs/c/Gruntfile.js",
+		"/Applications/MAMP/htdocs/c/k1/site/snippets/prevnext.php",
+		"/Applications/MAMP/htdocs/c/articoli.html",
+		"/Applications/MAMP/htdocs/c/article.html",
+		"/Users/cirox/Library/Caches/Cleanup At Startup/Transmit/DAB33E1D-206C-4E04-983A-614D2A59F4D3/article.html",
+		"/Users/cirox/Desktop/test.css",
+		"/Applications/MAMP/htdocs/c/test.html",
+		"/Users/cirox/Desktop/testd.html",
+		"/Applications/MAMP/htdocs/oo/ciroxtre/assets/_styles/style.scss",
+		"/Users/cirox/Documents/Lavori/metooo/markup_github/metooo/newhome-pro/assets/core/css/homepage_unclean.css",
+		"/Users/cirox/Desktop/Banner.html",
+		"/Applications/MAMP/htdocs/c/sass/base/_form.scss",
+		"/Applications/MAMP/htdocs/c/neat/grid/_box-sizing.scss",
+		"/Applications/MAMP/htdocs/c/neat/_neat.scss",
+		"/Applications/MAMP/htdocs/c/sass/neat/_neat.scss",
+		"/Applications/MAMP/htdocs/c/sass/neat/grid/_direction-context.scss",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/home.html",
+		"/Users/cirox/Library/Caches/Cleanup At Startup/Transmit/7CB33311-8FB0-4F9D-8C3D-EB365B54E956/index.html",
+		"/Users/cirox/Dropbox/metooo-ciro-sara/sito_2016/markup per salviox/pages/pro2.html",
+		"/Users/cirox/Desktop/index.html",
+		"/Users/cirox/Desktop/full-screen.html",
+		"/Applications/MAMP/htdocs/c/sass/neat/grid/_box-sizing.scss",
+		"/Applications/MAMP/htdocs/c/sass/base/_links.scss",
+		"/Applications/MAMP/htdocs/c/package.json",
+		"/Applications/MAMP/htdocs/c/ciroesposito.sublime-workspace",
+		"/Users/cirox/Documents/Lavori/ciroespositocom/sito/static-2017/package.json",
+		"/Users/cirox/Documents/Lavori/ciroespositocom/sito/static-2017/Gruntfile.js",
+		"/Users/cirox/Documents/Lavori/ciroespositocom/sito/static-2017/index.html",
+		"/Users/cirox/Documents/Lavori/ciroespositocom/sito/static-2017/sass/layout/_home.scss",
+		"/Users/cirox/Documents/Lavori/ciroespositocom/sito/static-2017/sass/layout/_articles.scss",
+		"/Users/cirox/Documents/Lavori/ciroespositocom/sito/static-2017/sass/blocks/_navigation.scss",
+		"/Users/cirox/Documents/Lavori/ciroespositocom/sito/static-2017/sass/blocks/_header.scss",
+		"/Users/cirox/Documents/Lavori/ciroespositocom/sito/static-2017/sass/blocks/_footer.scss",
+		"/Users/cirox/Documents/Lavori/ciroespositocom/sito/static-2017/sass/layout/_about.scss",
+		"/Users/cirox/Documents/Lavori/ciroespositocom/sito/static-2017/sass/base/_typography.scss",
+		"/Users/cirox/Documents/Lavori/ciroespositocom/sito/static-2017/sass/base/_lists.scss",
+		"/Users/cirox/Documents/Lavori/ciroespositocom/sito/static-2017/sass/base/_links.scss",
+		"/Users/cirox/Documents/Lavori/ciroespositocom/sito/static-2017/sass/base/_form.scss",
+		"/Users/cirox/Documents/Lavori/ciroespositocom/sito/static-2017/sass/base/_buttons.scss",
+		"/Users/cirox/Desktop/ol/grunt/grunt-sass/index.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/wall_en.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/create.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/app_es.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/create_es.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/home_es.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/invite_es.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/home_en.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/sell_es.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/wall_es.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/feat_es.html",
+		"/Users/cirox/Documents/Lavori/metooo/markup_github/metooo/newhome-pro/assets/plugins/foundation/css/foundation.css",
+		"/Users/cirox/Documents/Lavori/metooo/markup_github/metooo/assets/core/css/style.css",
+		"/Users/cirox/Documents/Lavori/metooo/markup_github/metooo/newhome-pro/assets/plugins/foundation/css/foundation.min.css",
+		"/Applications/MAMP/htdocs/oo/ciroxtre/assets/_styles/foundation.scss",
+		"/Applications/MAMP/htdocs/oo/ciroxtre/content/03-articoli/26-link-su-font-e-tipografia/default.txt",
+		"/Applications/MAMP/htdocs/oo/ciroxtre/site/templates/newsletter.php",
+		"/Applications/MAMP/htdocs/oo/ciroxtre/content/03-articoli/27-libri-che-ho-letto-nel-2016/default.txt",
+		"/Applications/MAMP/htdocs/oo/ciroxtre/assets/styles/style.css",
+		"/Users/cirox/Library/Caches/Cleanup At Startup/Transmit/E5837777-8075-452D-829C-EEAC85B9669C/footer.php",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/create_en.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/sell.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/sell_en.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/app.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/feat_en.html",
+		"/Users/cirox/Desktop/ool/my-slider 2/index.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/vendi_en.html",
+		"/Users/cirox/Desktop/ool/new slider/index copia.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/invite_en.html",
+		"/Users/cirox/Desktop/slider/js/assets/owl.theme.default.min.css",
+		"/Users/cirox/Desktop/test/package.json",
+		"/Users/cirox/Desktop/test/Gruntfile.js",
+		"/Users/cirox/Documents/Lavori/metooo/markup_github/metooo/newhome-pro/pages/test-slick.html",
+		"/Users/cirox/Documents/Lavori/metooo/markup_github/metooo/newhome-pro/pages/index-2.html",
+		"/Users/cirox/Downloads/slick-1.6.0/slick/test.css",
+		"/Users/cirox/Downloads/slick-1.6.0/index.html",
+		"/Users/cirox/Documents/Lavori/metooo/markup_github/metooo/newhome-pro/assets/core/css/homepage_unclean copia.css",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/vendi.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/app_en.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/feat.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/wall.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/home-2.html",
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/invite.html",
+		"/Users/cirox/Desktop/cms/home_en.html",
+		"/Users/cirox/Desktop/cms/feat_en.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1621,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1368,
+								1368
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 246.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 74.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/chrome.sublime-build",
+	"project": "revisioni.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

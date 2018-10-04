@@ -122,7 +122,22 @@ section {
 
 .card {
 	border:7px solid rgba(0,0,0,0.8);
-	padding: 40px 60px;
+	padding: 60px 60px 40px 60px;
+	min-height: 350px;
+	position: relative;
+}
+
+.card h6 {
+	position: absolute;
+	top:0;
+	left: 0;
+	margin:0;
+	padding: 10px 10px 10px 60px;
+	margin:0;
+	background: rgba(0,0,0,0.7);
+	width: 100%;
+	color:#fff;
+	font-size:16px;
 }
 
 footer {
@@ -171,7 +186,13 @@ footer p {
 	}
 
 	.card {
-		padding: 20px 40px;
+		padding: 60px 40px 20px 40px;
+		min-height: auto;
+	}
+
+	.card h6 {
+		font-size: 14px;
+		padding-left: 40px;
 	}
 
 	.column a {
