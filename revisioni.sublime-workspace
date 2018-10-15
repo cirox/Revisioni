@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"min-",
+				"min-width\tproperty"
+			],
+			[
 				"pos",
 				"pos-r\tposition: relative;"
 			],
@@ -22,10 +34,6 @@
 			[
 				"mari",
 				"margin-top"
-			],
-			[
-				"pad",
-				"padding"
 			],
 			[
 				"mar",
@@ -243,15 +251,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 1621,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -397,6 +396,8 @@
 	],
 	"file_history":
 	[
+		"/Users/cirox/Documents/Lavori/accademia/Revisioni/style.css",
+		"/Users/cirox/Documents/Lavori/accademia/Revisioni/index.html",
 		"/Users/cirox/Documents/Lavori/accademia/Revisioni/rev-4-set.html",
 		"/Users/cirox/Documents/Lavori/accademia/Revisioni/31luglio.html",
 		"/Users/cirox/Desktop/mier-2.svg",
@@ -522,13 +523,11 @@
 		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/feat.html",
 		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/wall.html",
 		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/home-2.html",
-		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/invite.html",
-		"/Users/cirox/Desktop/cms/home_en.html",
-		"/Users/cirox/Desktop/cms/feat_en.html"
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/invite.html"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -542,6 +541,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"0,50",
+			"2%",
+			"prova"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -559,38 +561,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1621,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1368,
-								1368
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 246.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

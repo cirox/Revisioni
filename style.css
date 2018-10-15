@@ -123,7 +123,7 @@ section {
 .card {
 	border:7px solid rgba(0,0,0,0.8);
 	padding: 60px 60px 40px 60px;
-	min-height: 350px;
+	min-height: 380px;
 	position: relative;
 }
 
