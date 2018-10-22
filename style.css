@@ -26,9 +26,13 @@ a:hover {
 
 p {
 	line-height: 1.6;
-	margin: 0;
+	margin:0;
 	padding: 0;
 	font-size:1.2rem;
+}
+
+.card p {
+	margin: 0 0 1.6rem 0;
 }
 
 h1 {
@@ -44,7 +48,7 @@ h1 {
 h2 {
 	font-size: 1.3rem;
 	font-family: "acumin-pro-wide";
-	margin:0;
+	margin:0 0 1.6rem 0;
 	padding: 0;
 	font-weight: 700;
 	font-style: normal;
@@ -78,7 +82,7 @@ section {
 
 .columns {
 	display: flex;
-	justify-content:space-between;
+	justify-content:center;
 	width: 100%;
 	text-align: left;
 	flex-direction: row;
@@ -117,13 +121,14 @@ section {
 }
 
 .column {
-	width:49%;
+	/*width:49%;*/
+	width:70%;
 }
 
 .card {
 	border:7px solid rgba(0,0,0,0.8);
-	padding: 60px 60px 40px 60px;
-	min-height: 380px;
+	padding: 30px 60px 0 60px;
+	min-height: 350px;
 	position: relative;
 }
 
