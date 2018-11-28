@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
 				"pad",
 				"padding-left\tproperty"
 			],
@@ -34,10 +38,6 @@
 			[
 				"mari",
 				"margin-top"
-			],
-			[
-				"mar",
-				"margin"
 			],
 			[
 				"marg",
@@ -398,6 +398,8 @@
 	[
 		"/Users/cirox/Documents/Lavori/accademia/Revisioni/style.css",
 		"/Users/cirox/Documents/Lavori/accademia/Revisioni/index.html",
+		"/Users/cirox/Dropbox/metooo-ciro-sara/sito_2017/html/pages/banner-blog.html",
+		"/Users/cirox/Library/Application Support/Sublime Merge/Packages/User/Preferences.sublime-settings",
 		"/Users/cirox/Documents/Lavori/accademia/Revisioni/rev-4-set.html",
 		"/Users/cirox/Documents/Lavori/accademia/Revisioni/31luglio.html",
 		"/Users/cirox/Desktop/mier-2.svg",
@@ -521,9 +523,7 @@
 		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/vendi.html",
 		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/app_en.html",
 		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/feat.html",
-		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/wall.html",
-		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/home-2.html",
-		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/invite.html"
+		"/Users/cirox/Documents/Lavori/metooo/Html-CMS/sito/wall.html"
 	],
 	"find":
 	{
@@ -541,6 +541,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"transato",
+			"fee",
+			"order",
+			"orders",
+			"flyer",
+			"user",
+			"}",
+			"flyer",
+			"user",
+			"users",
+			"column",
+			"transato",
+			"flyers",
+			"users",
 			"0,50",
 			"2%",
 			"prova"

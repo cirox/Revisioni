@@ -82,7 +82,7 @@ section {
 
 .columns {
 	display: flex;
-	justify-content:center;
+	justify-content:space-between;;
 	width: 100%;
 	text-align: left;
 	flex-direction: row;
@@ -121,8 +121,8 @@ section {
 }
 
 .column {
-	/*width:49%;*/
-	width:70%;
+	width:49%;
+	/*width:70%;*/
 }
 
 .card {
